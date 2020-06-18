@@ -10,3 +10,14 @@ To install all dependencies:
 To run the project:
 
 <code>yarn dev</code>
+
+Document example:
+
+{
+	"title": "Mobile com React Native",
+	"owner": "Robinson"
+}
+
+Endpoints:
+http://localhost:3333/projects
+http://localhost:3333/projects/:id
