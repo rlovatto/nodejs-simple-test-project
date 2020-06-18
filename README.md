@@ -19,5 +19,7 @@ Document example:
 }
 
 Endpoints:
-http://localhost:3333/projects
+
+http://localhost:3333/projects <br>
 http://localhost:3333/projects/:id
+
