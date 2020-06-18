@@ -1,7 +1,7 @@
 # NodeJS-concepts-middleware
 Exercise on NodeJS Middleware for the Bootcamp GoStack - Rocketseat
 
-Basically, it is a rest api that add projects to an array. So, every time, the server is rebooted the data is lost.
+Basically, it is a rest api that add projects to an array. So, every time the server is rebooted the data is lost.
 
 To install all dependencies:
 
