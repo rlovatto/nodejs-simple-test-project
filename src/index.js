@@ -7,7 +7,7 @@ app.use(express.json());
 const projects = [];
 
 function logRequests (request, response, next){
-    const {methos, url} = request;
+    const {method, url} = request;
 
     const logLabel = `[${method.toUpperCase()} ${url}]`;
     
