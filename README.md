@@ -1,15 +1,19 @@
-# NodeJS-concepts-middleware
-Exercise on NodeJS Middleware for the Bootcamp GoStack - Rocketseat
+# Node.js - A very simple project
+Exercise on Node.js for the Bootcamp GoStack - Rocketseat
 
-Basically, it is a rest api that add projects to an array. So, every time the server is rebooted the data is lost.
+It is a rest api that add projects to an array. So, every time the server is rebooted the data is lost.
 
 To install all dependencies:
 
-<code>yarn</code>
+```
+yarn
+```
 
 To run the project:
 
-<code>yarn dev</code>
+```
+yarn dev
+```
 
 Document example:
 
@@ -20,6 +24,14 @@ Document example:
 
 Endpoints:
 
-http://localhost:3333/projects <br>
-http://localhost:3333/projects/:id
+GET, POST   - http://localhost:3333/projects <br>
+PUT, DELETE - http://localhost:3333/projects/:id
 
+### ReactJS Front-end for this project:
+
+[gobarber-reactjs](https://github.com/rlovatto/gobarber-reactjs)
+
+
+### React Native App for this project:
+
+[gobarber-react-native](https://github.com/rlovatto/gobarber-react-native)
